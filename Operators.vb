@@ -26,6 +26,16 @@ Module Operators
         'Mod/ Remainder
         Console.WriteLine(7 Mod 3)
         Console.ReadLine()
+
+        'concatenate stuff
+        Console.WriteLine("2" + "2")
+        Console.ReadLine()
+        'happy times
+        Console.WriteLine("2" & "2")
+        Console.ReadLine()
+        'example
+        Console.WriteLine("Hello" & "," & " " & "World" & "!")
+        Console.ReadLine()
     End Sub
 
 End Module
