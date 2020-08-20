@@ -37,15 +37,19 @@ Module Operators
         'Console.WriteLine("Hello" & "," & " " & "World" & "!")
         'Console.ReadLine()
 
-        'comparison
-        Console.WriteLine(1 > 3)
-        Console.ReadLine()
-        Console.WriteLine(1 < 3)
-        Console.ReadLine()
-        Console.WriteLine(1 = 3)
-        Console.ReadLine()
-        Console.WriteLine(1 <> 3)
-        Console.ReadLine()
+        ''comparison
+        'Console.WriteLine(1 > 3)
+        'Console.ReadLine()
+        'Console.WriteLine(1 < 3)
+        'Console.ReadLine()
+        'Console.WriteLine(1 = 3)
+        'Console.ReadLine()
+        'Console.WriteLine(1 <> 3)
+        'Console.ReadLine()
+        'Console.WriteLine(1 >= 3)
+        'Console.ReadLine()
+        'Console.WriteLine(1 <= 3)
+        'Console.ReadLine()
 
 
 
